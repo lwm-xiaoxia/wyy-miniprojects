@@ -1,0 +1,15 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"miniprogramRoot": "dist/",
+	"compileType": "miniprogram",
+	"libVersion": "2.8.2",
+	"projectname": "%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90",
+	"setting": {},
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"appid": "wx59ea327faa32d3ec",
+	"condition": {}
+}

@@ -1,0 +1,25 @@
+/**index.wxss**/
+@import '../../css/index.scss';
+
+.app {
+  padding: 0 to-rpx(45px);
+  background-color: $theme-color;
+}
+.head-bar {
+  height: to-rpx(100px);
+  
+  .nav-wrap {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    width: to-rpx(550px);
+    height: 100%;
+    font-size: to-rpx(50px);
+    color: #e78c87;
+    .nav-list {
+      // display: flex;
+      // align-items: center;
+      // height: 100%;
+    }
+  }
+}

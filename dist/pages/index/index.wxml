@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="app">
+  <view class="head-bar">
+    <view class="nav-wrap">
+      <text 
+        class="nav-list"
+        wx:for="{{navList}}"
+      >
+        {{item}}
+      </text>
+    </view>
+  </view>
+  <!-- 内容 -->
+  <!-- <scroll-view class="content"></scroll-view> -->
+  </view>

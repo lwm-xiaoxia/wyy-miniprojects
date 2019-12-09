@@ -1,0 +1,17 @@
+/**index.wxss**/
+.app {
+  padding: 0 31.25rpx;
+  background-color: #dd4135; }
+
+.head-bar {
+  height: 69.44444rpx; }
+  .head-bar .nav-wrap {
+    display: -webkit-box;
+    display: flex;
+    margin: 0 auto;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
+    width: 381.94444rpx;
+    height: 100%;
+    font-size: 34.72222rpx;
+    color: #e78c87; }
